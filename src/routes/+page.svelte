@@ -32,31 +32,30 @@
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Maria Rodriguez",
+			position: "VP Operations",
+			company: "CareNational Staffing",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Harmony has been the highlight of my year. We've reduced our time-to-placement by 80% and now fill critical nursing positions in 48 hours instead of weeks. The AI agents work around the clock, so we never miss qualified candidates.",
+			image: "/generated/image-professional-headshot-of-maria-rodriguez.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "David Chen",
+			position: "Director of Talent Acquisition",
+			company: "Allied Healthcare Solutions",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Before Harmony, our recruiters spent 15+ hours weekly screening unqualified applicants. Now they save 10 hours per week and focus on building relationships with our best candidates. It's transformative technology we didn't know we needed.",
+			image: "/generated/image-professional-headshot-of-david-chen-seni.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Aisha Thompson",
+			position: "Operations Manager",
+			company: "Premier Health Staffing",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"The semantic search capability is game-changing. Instead of keyword matching, Harmony's AI understands what we actually need and surfaces 5x more qualified applicants. We're filling positions faster than our competitors and our clients notice the difference.",
+			image: "/generated/image-professional-headshot-of-aisha-thompson-.webp"
 		}
 	]}
 />
