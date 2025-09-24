@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Transform recruiting from manual screening bottlenecks into automated talent pipelines"
+	subtitle="AI agents that continuously evaluate and match candidates, empowering healthcare staffing agencies to fill critical roles 5x faster with 80% less manual work."
+	imageSrc="/generated/image-healthcare-recruiting-manager-30s-confid.webp"
+	centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://cdn.brandfetch.io/nursefinders.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/aya.healthcare/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/cross-country-healthcare.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/flexcare.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
